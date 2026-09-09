@@ -1,6 +1,6 @@
-# TripMaster support website
+# cTripMaster support website
 
-Public support and privacy site for TripMaster Rally Navigator.
+Public support and privacy site for cTripMaster.
 
 Live: https://cpoapps.github.io/tripmaster-site/
 Support: https://cpoapps.github.io/tripmaster-site/support.html
