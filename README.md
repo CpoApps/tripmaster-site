@@ -1,6 +1,6 @@
-# cTripMaster support website
+# Chrono Trip Master (CTM) support website
 
-Public support and privacy site for cTripMaster.
+Public support and privacy site for Chrono Trip Master (CTM).
 
 Live: https://cpoapps.github.io/tripmaster-site/
 Support: https://cpoapps.github.io/tripmaster-site/support.html
